@@ -27,7 +27,7 @@ authors:
     email: wpokrzywa@iimcb.gov.pl
 identifiers:
   - type: doi
-    value: 10.1234/zenodo.4323
+    value: 10.5281/zenodo.17371038
 repository: >-
   https://github.com/PokrzywaLab/Sarkar_2025_accompanying_data
 keywords:
