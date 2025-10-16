@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data accompanying the manuscript "A dosage-sensitive
+  ALLO-1 network coordinates mitochondrial quality control
+  to enable functional recovery of structurally compromised
+  muscle"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Anwesha
+    family-names: Sarkar
+  - given-names: Lilla
+    family-names: Biriczová
+  - given-names: Natalia A.
+    family-names: Szulc
+  - given-names: Pankaj
+    family-names: Thapa
+  - given-names: Remigiusz
+    family-names: Serwa
+  - given-names: Wojciech
+    family-names: Pokrzywa
+    email: wpokrzywa@iimcb.gov.pl
+identifiers:
+  - type: doi
+    value: 10.1234/zenodo.4323
+repository: >-
+  https://github.com/PokrzywaLab/Sarkar_2025_accompanying_data
+keywords:
+  - mitochondrial quality control
+  - mitophagy
+  - muscle recovery
+  - ALLO-1
+  - Caenorhabditis elegans
+  - proteostasis
+license: CC-BY-4.0
